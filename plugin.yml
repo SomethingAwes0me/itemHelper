@@ -1,0 +1,9 @@
+name: itemHelper
+main: me.somethingawes0me.itemhelper.itemhelper
+version: 0.1
+authors:
+  - SomethingAwes0me
+description: >
+             Searches item ID's and names to help you know your blocks and items.
+website: http://swerv.co
+commands:
